@@ -1,0 +1,4 @@
+C:\Users\nog0030\Documents\Visual Studio 2015\Projects\FirstConsoleApp\ExternalLib\bin\Debug\ExternalLib.dll
+C:\Users\nog0030\Documents\Visual Studio 2015\Projects\FirstConsoleApp\ExternalLib\bin\Debug\ExternalLib.pdb
+C:\Users\nog0030\Documents\Visual Studio 2015\Projects\FirstConsoleApp\ExternalLib\obj\Debug\ExternalLib.dll
+C:\Users\nog0030\Documents\Visual Studio 2015\Projects\FirstConsoleApp\ExternalLib\obj\Debug\ExternalLib.pdb
