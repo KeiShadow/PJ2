@@ -1,0 +1,9 @@
+c:\users\nog0030\documents\visual studio 2015\Projects\prvniapp\prvniapp\bin\Debug\prvniapp.exe.config
+c:\users\nog0030\documents\visual studio 2015\Projects\prvniapp\prvniapp\bin\Debug\prvniapp.exe
+c:\users\nog0030\documents\visual studio 2015\Projects\prvniapp\prvniapp\bin\Debug\prvniapp.pdb
+c:\users\nog0030\documents\visual studio 2015\Projects\prvniapp\prvniapp\obj\Debug\prvniapp.csprojResolveAssemblyReference.cache
+c:\users\nog0030\documents\visual studio 2015\Projects\prvniapp\prvniapp\obj\Debug\prvniapp.Form1.resources
+c:\users\nog0030\documents\visual studio 2015\Projects\prvniapp\prvniapp\obj\Debug\prvniapp.Properties.Resources.resources
+c:\users\nog0030\documents\visual studio 2015\Projects\prvniapp\prvniapp\obj\Debug\prvniapp.csproj.GenerateResource.Cache
+c:\users\nog0030\documents\visual studio 2015\Projects\prvniapp\prvniapp\obj\Debug\prvniapp.exe
+c:\users\nog0030\documents\visual studio 2015\Projects\prvniapp\prvniapp\obj\Debug\prvniapp.pdb
