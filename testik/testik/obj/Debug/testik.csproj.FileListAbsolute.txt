@@ -1,0 +1,6 @@
+c:\users\petr\documents\visual studio 2015\Projects\testik\testik\bin\Debug\testik.exe.config
+C:\Users\Petr\Documents\Visual Studio 2015\Projects\testik\testik\obj\Debug\testik.csprojResolveAssemblyReference.cache
+C:\Users\Petr\Documents\Visual Studio 2015\Projects\testik\testik\bin\Debug\testik.exe
+C:\Users\Petr\Documents\Visual Studio 2015\Projects\testik\testik\bin\Debug\testik.pdb
+C:\Users\Petr\Documents\Visual Studio 2015\Projects\testik\testik\obj\Debug\testik.exe
+C:\Users\Petr\Documents\Visual Studio 2015\Projects\testik\testik\obj\Debug\testik.pdb
