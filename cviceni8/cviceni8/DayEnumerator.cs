@@ -12,6 +12,7 @@ namespace cviceni8
         private DateTime firstDayOfMonth;
         private DateTime? currentDay;
         public DayEnumerator(DateTime firstDayOfMonth) {
+           
 
         }
         public DateTime Current {

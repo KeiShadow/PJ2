@@ -45,6 +45,7 @@
     <Compile Include="Calendar.cs" />
     <Compile Include="Calendar2.cs" />
     <Compile Include="DayEnumerator.cs" />
+    <Compile Include="Num.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
