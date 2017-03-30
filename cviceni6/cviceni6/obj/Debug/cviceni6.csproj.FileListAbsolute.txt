@@ -1,0 +1,6 @@
+c:\users\petr\documents\visual studio 2017\Projects\cviceni6\cviceni6\bin\Debug\cviceni6.exe.config
+c:\users\petr\documents\visual studio 2017\Projects\cviceni6\cviceni6\bin\Debug\cviceni6.exe
+c:\users\petr\documents\visual studio 2017\Projects\cviceni6\cviceni6\bin\Debug\cviceni6.pdb
+c:\users\petr\documents\visual studio 2017\Projects\cviceni6\cviceni6\obj\Debug\cviceni6.csprojResolveAssemblyReference.cache
+c:\users\petr\documents\visual studio 2017\Projects\cviceni6\cviceni6\obj\Debug\cviceni6.exe
+c:\users\petr\documents\visual studio 2017\Projects\cviceni6\cviceni6\obj\Debug\cviceni6.pdb

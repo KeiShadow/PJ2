@@ -1,0 +1,6 @@
+c:\users\petr\documents\visual studio 2017\Projects\udalostiadelegace\udalostiadelegace\bin\Debug\udalostiadelegace.exe.config
+c:\users\petr\documents\visual studio 2017\Projects\udalostiadelegace\udalostiadelegace\bin\Debug\udalostiadelegace.exe
+c:\users\petr\documents\visual studio 2017\Projects\udalostiadelegace\udalostiadelegace\bin\Debug\udalostiadelegace.pdb
+c:\users\petr\documents\visual studio 2017\Projects\udalostiadelegace\udalostiadelegace\obj\Debug\udalostiadelegace.csprojResolveAssemblyReference.cache
+c:\users\petr\documents\visual studio 2017\Projects\udalostiadelegace\udalostiadelegace\obj\Debug\udalostiadelegace.exe
+c:\users\petr\documents\visual studio 2017\Projects\udalostiadelegace\udalostiadelegace\obj\Debug\udalostiadelegace.pdb
