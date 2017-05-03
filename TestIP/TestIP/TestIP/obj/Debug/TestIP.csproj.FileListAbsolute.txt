@@ -1,0 +1,6 @@
+C:\Users\Petr\Documents\GitHub\TestIP\TestIP\TestIP\bin\Debug\TestIP.exe.config
+C:\Users\Petr\Documents\GitHub\TestIP\TestIP\TestIP\bin\Debug\TestIP.exe
+C:\Users\Petr\Documents\GitHub\TestIP\TestIP\TestIP\bin\Debug\TestIP.pdb
+C:\Users\Petr\Documents\GitHub\TestIP\TestIP\TestIP\obj\Debug\TestIP.csprojResolveAssemblyReference.cache
+C:\Users\Petr\Documents\GitHub\TestIP\TestIP\TestIP\obj\Debug\TestIP.exe
+C:\Users\Petr\Documents\GitHub\TestIP\TestIP\TestIP\obj\Debug\TestIP.pdb
